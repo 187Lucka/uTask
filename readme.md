@@ -1,5 +1,11 @@
 # uTasks Project
 
+## Description
+
+**uTask** est une application web de gestion de tâches développée dans le cadre du cours **Développement d'applications Web (GLO3102)** à l'**Université Laval** (Québec).
+
+Le projet met en pratique les concepts enseignés durant le cours, notamment la conception et le développement d'une application full-stack moderne avec un frontend en React/TypeScript et un backend Node.js.
+
 ## Prérequis
 Assurez-vous d'avoir les outils suivants installés sur votre machine :
 - [Docker](https://www.docker.com/)
